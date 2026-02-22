@@ -60,7 +60,7 @@ python src/main.py
 
 # 6. Auteur
 
-Projet réalisé par Said Ouzzine, Data Scientist spécialisé modélisation statistique et ingénierie de données.
+Projet réalisé par Said Ouzzine, Data Scientist|Econométrie|modélisation statistique
 
 Profil LinkedIn :https://www.linkedin.com/in/said-ouzzine/
 
